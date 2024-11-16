@@ -67,3 +67,6 @@
 .ll-facebook::before{
     content:"n"
 }
+.ll-signature::before{
+    content:"o"
+}
