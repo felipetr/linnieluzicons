@@ -70,3 +70,6 @@
 .ll-signature::before{
     content:"o"
 }
+.ll-doctoralia::before{
+    content:"p"
+}
